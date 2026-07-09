@@ -21,4 +21,4 @@
     * *Challenge:* Given an integer $N$, print its complete multiplication table from 1 to 10.
     * *Why it's tougher:* Introduces loop control variables and tabular formatting.
 
----
+
