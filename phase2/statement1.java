@@ -14,7 +14,7 @@ public class statement1 {
         int target = sc.nextInt();
 
         int[] myArr = new int[size];
-
+         sc.close();
         // initializing array element
         for (int i = 0; i < myArr.length; i++) {
             myArr[i] = i + 1;
@@ -37,6 +37,6 @@ public class statement1 {
             }
         }
 
-        sc.close();
+       
     }
 }
